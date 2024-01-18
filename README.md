@@ -1,9 +1,3 @@
-I apologize for any confusion, but as a text-based AI model, I can only provide you with Markdown text. To preview what your README will look like in a rendered format, you can copy and paste the Markdown content into a Markdown editor or viewer. Many code editors and online Markdown previewers are available that can help you see how your README will appear when rendered.
-
-Here is a formatted version of the README content with the additional environment configurations:
-
----
-
 # MOMO Payment Processor
 
 Welcome to the MOMO Payment Processor project! This payment processor is designed to save payments, track their status, and provide a seamless payment experience for your clients.
